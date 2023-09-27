@@ -1,5 +1,5 @@
 # MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
-This anonymous repository is for NIPS submission only and can only be used for reviewing purpose. 
+This anonymous repository is for ICLR submission only and can only be used for reviewing purpose. 
 
 
 ## Examples
